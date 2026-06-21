@@ -1,0 +1,19 @@
+# dataset
+dataset/
+
+# virtual environment
+lumenEnv/
+
+# model checkpoints
+*.pth
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# vscode
+.vscode/

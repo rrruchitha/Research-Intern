@@ -1,0 +1,10 @@
+classes: 8
+totalImages: 24000
+trainImages: {'AMD': 2300, 'CNV': 2300, 'CSR': 2300, 'DME': 2300, 'DR': 2300, 'DRUSEN': 2300, 'MH': 2300, 'NORMAL': 2300}
+validationImages: {'AMD': 350, 'CNV': 350, 'CSR': 350, 'DME': 350, 'DR': 350, 'DRUSEN': 350, 'MH': 350, 'NORMAL': 350}
+testImages: {'AMD': 350, 'CNV': 350, 'CSR': 350, 'DME': 350, 'DR': 350, 'DRUSEN': 350, 'MH': 350, 'NORMAL': 350}
+imageSize: 224 x 224
+channels: RGB
+imbalanceRatio: 1.0
+lossFunction: Standard CrossEntropyLoss
+normalization: ImageNet mean/std
