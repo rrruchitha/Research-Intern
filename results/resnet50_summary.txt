@@ -1,0 +1,17 @@
+
+
+Model: ResNet50
+
+Dataset: Retinal OCT Dataset
+
+Classes: 8
+
+
+Test Accuracy : 0.9611
+
+Precision     : 0.9617
+
+Recall        : 0.9611
+
+F1 Score      : 0.9610
+
