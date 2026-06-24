@@ -1,0 +1,19 @@
+
+
+Model: DenseNet121
+
+Dataset: Retinal OCT Dataset
+
+
+Classes:
+['AMD', 'CNV', 'CSR', 'DME', 'DR', 'DRUSEN', 'MH', 'NORMAL']
+
+
+Test Accuracy : 0.9743
+
+Precision     : 0.9743
+
+Recall        : 0.9743
+
+F1 Score      : 0.9743
+
