@@ -4,7 +4,8 @@ Model: ResNet50
 
 Dataset: Retinal OCT Dataset
 
-Classes: 8
+Classes:
+['AMD', 'CNV', 'CSR', 'DME', 'DR', 'DRUSEN', 'MH', 'NORMAL']
 
 
 Test Accuracy : 0.9611
