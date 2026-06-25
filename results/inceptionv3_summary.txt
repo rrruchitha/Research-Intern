@@ -1,0 +1,19 @@
+
+
+Model:  InceptionV3
+
+Dataset: Retinal OCT Dataset
+
+
+Classes:
+['AMD', 'CNV', 'CSR', 'DME', 'DR', 'DRUSEN', 'MH', 'NORMAL']
+
+
+Test Accuracy : 0.2436
+
+Precision     : 0.2124
+
+Recall        : 0.2436
+
+F1 Score      : 0.1406
+
