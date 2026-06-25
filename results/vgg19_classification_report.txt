@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+         AMD       0.26      0.40      0.31       350
+         CNV       0.00      0.00      0.00       350
+         CSR       0.16      0.02      0.04       350
+         DME       0.10      0.02      0.03       350
+          DR       0.05      0.01      0.02       350
+      DRUSEN       0.00      0.00      0.00       350
+          MH       0.19      0.89      0.31       350
+      NORMAL       0.26      0.30      0.28       350
+
+    accuracy                           0.20      2800
+   macro avg       0.13      0.20      0.12      2800
+weighted avg       0.13      0.20      0.12      2800
